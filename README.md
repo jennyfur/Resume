@@ -25,7 +25,7 @@ jvatza@gmail.com
 
 - Web content management for Moore’s website, involving working with staff, faculty and students to provide updates with program information, news, events, and slide shows of student, alumni and faculty artwork: http://www.moore.edu. 
 - Project Manager for the launch of Moore’s new website in August 2013 and for the initial conversion project of Moore’s web site from the Simple CMS content management system and to the Apostrophe content management system in 2011.
-- Contributed photography of events, classrooms and other campus activities in 2013. 
+- Contributed photography of events, classrooms and other campus activities since 2013, including a photoshoot with Project Runway Season 12 winner Dom Streater for ad campaigns used on local billboards and in national arts magazines. 
 - Trained staff on the proper use of digital cameras and Adobe Lightroom for image processing.
 - Implemented a plan with the Marketing & Communications department to develop a college wide social media marketing plan. Manages all institutional social media properties: Facebook, Pinterest, Twitter, Instagram, LinkedIn, Tumblr, Google Plus and Vine.  
 - Advised other departments on setting up their own Facebook and other social media properties.
@@ -89,7 +89,7 @@ jvatza@gmail.com
 
 - Photography & Video Courses: Product Photography for eCommerce, Insights on Product Photography, Up and Running with DSLR Film Making, Creative DSLR Video Techniques, Shooting with the Canon 5D Mark III, Video for Photographers: Shooting with a DSLR, Up and Running with Studio Strobes, Lighting for Photographers: Portraiture, Narrative Portraiture: Foundations of Portraiture, Green Screen Techniques for Video and Photography, Lens Reversal Macro Photography, Foundations of Photography: Exposure, Composition, Lenses, Night and Low Light, Macro and Close Up, Flash, Speciality Lenses, Up and Running with Natural Light, Up and Running with Lighting: Studio Lights and Flash, Digital Photography Principles: The Camera, Lighting with Flash: Basics, Lighting for Photographers: Flash Exposure Fundamentals, Photography 101.
 - Software Courses: Up and Running with Lightroom 5, Lightroom 5 Essentials: Importing with the Library Module, Managing Images with the Library Modules, Develop Module Basics, and Develop Module Advanced Techniques, Photoshop CS3 One on One Essentials.
-- Website Courses: Responsive Design Fundamentals, Website Strategy and Planning, Website Planning and Wireframing, Google Analytics Essential Training, Website Design Fundamentals, Web Site Strategy and Planning, CMS Fundamentals,
+- Website Courses: Responsive Design Fundamentals, Website Strategy and Planning, Website Planning and Wireframing, Google Analytics Essential Training, Website Design Fundamentals, Web Site Strategy and Planning, CMS Fundamentals, GitHub for Web Designers
 - Social Media Courses: Facebook Advertising Fundamentals, Pinterest for Business Sharing Photos with Instagram Up and Running with Vine, Up and Running with SnapChat, Up and Running with Pinterest, Google+ for Business, Twitter Essential Training, Up and Running with Tumblr, Social Media Marketing with Facebook and Twitter.
 
 ## Professional Achievements 
