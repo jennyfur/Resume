@@ -37,7 +37,7 @@ jvatza@gmail.com
 - Oversaw database conversion from PowerCampus to Raiser’s Edge in 2006
 - Managed work-study students, scheduling, projects and work flow.
 - Assisted with planning annual events at Moore including: the Visionary Woman Awards, Fashion Show, Alumni Reunions & Exhibitions and special 160th Anniversary Celebrations in 2008.
-Assisted with  annual fundraising campaigns including all print materials, html emails and website materials.
+- Assisted with  annual fundraising campaigns including all print materials, html emails and website materials.
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts.
 
 ### Jennifer Vatza Photography
