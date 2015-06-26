@@ -1,4 +1,7 @@
 # Jennifer Vatza
+611 Annin Street, Philadelphia, PA 19147
+267-338-5320
+jvatza@gmail.com
 
 ## Education
 
