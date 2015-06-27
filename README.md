@@ -1,7 +1,4 @@
 # Jennifer Vatza
-611 Annin Street, Philadelphia, PA 19147
-267-338-5320
-jvatza@gmail.com
 
 ## Education
 
@@ -13,7 +10,7 @@ jvatza@gmail.com
 
 - Website content management systems, Apostrophe, Simple CMS , WordPress, Weebly and other custom proprietary content management systems. Experience with managing website upgrades, redesigns and content management system conversion
 - Social media management: Facebook, Twitter, Instagram, Pinterest, FourSquare, YouTube, Google Plus, LinkedIn, Flickr, Vine, Snapchat, and Tumblr.
-- Software and technical skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3D printing, Laser Cutter, Basecamp, GitHub, Microsoft Office, Raiser’s Edge Database and other databases.
+- Software and technical skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3D printing, Laser Cutter, Basecamp, Git, Microsoft Office, Raiser’s Edge Database and other databases.
 - Project management experience: web content, social media, event and conference planning, alumni relations, fundraising
 - Over twenty years of photography experience in analog photography and thirteen years of digital photography experience.
 
