@@ -2,7 +2,7 @@
 
 ## Education
 
-- Pursuing a Master of Fine Arts degree in Studio Arts with Photography Emphasis
+- Pursuing a Master of Fine Arts degree in Studio Arts with Photography Emphasis (in progress)
 - Bachelor of Fine Arts degree in Studio Arts with Art History Emphasis, Moore College of Art & Design, 2004
 - Professional development courses (please see below)
 
@@ -10,7 +10,8 @@
 
 - Website content management systems, Apostrophe, Simple CMS , WordPress, Weebly and other custom proprietary content management systems. Experience with managing website upgrades, redesigns and content management system conversion
 - Social media management: Facebook, Twitter, Instagram, Pinterest, FourSquare, YouTube, Google Plus, LinkedIn, Flickr, Vine, Snapchat, and Tumblr.
-- Software and technical skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3D printing, Laser Cutter, Basecamp, Git, Microsoft Office, Raiser’s Edge Database and other databases.
+- Technical skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3-D printing, 3-D character avatar design, Laser Cutter, Git version control, Markdown
+- Other Software Products: Microsoft Office Suite (expert in Word, Excel, Powerpoint, including mail merges, document sharing, and more), Google Docs, Basecamp, GitHub, Raiser's Edge Fundraising Database
 - Project management experience: web content, social media, event and conference planning, alumni relations, fundraising
 - Over twenty years of photography experience in analog photography and thirteen years of digital photography experience.
 
