@@ -8,7 +8,8 @@
 
 ## Skills
 
-- Website content management systems, Apostrophe, Simple CMS , WordPress, Weebly and other custom proprietary content management systems. Experience with managing website upgrades, redesigns and content management system conversion
+- Website content management systems, Apostrophe, Simple CMS , WordPress, Weebly and other custom proprietary content management systems. 
+- Experience with managing website upgrades, redesigns and content management system conversion projects
 - Social media management: Facebook, Twitter, Instagram, Pinterest, FourSquare, YouTube, Google Plus, LinkedIn, Flickr, Vine, Snapchat, and Tumblr.
 - Technical skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3-D printing, 3-D character avatar design, Laser Cutter, Git version control, Markdown
 - Other Software Products: Microsoft Office Suite (expert in Word, Excel, Powerpoint, including mail merges, document sharing, and more), Google Docs, Basecamp, GitHub, Raiser's Edge Fundraising Database
@@ -25,8 +26,9 @@
 - Project Manager for the launch of Moore’s new website in August 2013 and for the initial conversion project of Moore’s web site from the Simple CMS content management system and to the Apostrophe content management system in 2011.
 - Contributed photography of events, classrooms and other campus activities since 2013, including a photoshoot with Project Runway Season 12 winner Dom Streater for ad campaigns used on local billboards and in national arts magazines. 
 - Trained staff on the proper use of digital cameras and Adobe Lightroom for image processing.
-- Implemented a plan with the Marketing & Communications department to develop a college wide social media marketing plan. Manages all institutional social media properties: Facebook, Pinterest, Twitter, Instagram, LinkedIn, Tumblr, Google Plus and Vine.  
-- Advised other departments on setting up their own Facebook and other social media properties.
+- Implemented a plan with the Marketing & Communications department to develop a college wide social media marketing plan.
+- Managed all institutional social media properties: Facebook, Pinterest, Twitter, Instagram, LinkedIn, Tumblr, Google Plus and Vine.  
+- Advised other departments on setting up their own Facebook pages and other social media properties.
 
 ##### Fundraising Coordinator (2006 - 2015)
 
@@ -38,11 +40,22 @@
 - Assisted with  annual fundraising campaigns including all print materials, html emails and website materials.
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts.
 
+Member of Moore's  Staff Council since 2006, Chair  2014 - 2015. 
+Chair of Moore's Environmental Task Force 2007-2009.
+United Way Campaign Coordinator at Moore in 2006 and 2007. 
+
+Philadelphia Zoo 
+Volunteer (2013 - present)
+- Camera Club Member. The club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other’s recent work. 
+
 ### Jennifer Vatza Photography
 
 ##### Owner & Photographer (2010 - present)
 
-- Freelance photographic services
+- Freelance photographic services for portrait photography, professional headshots, and events.
+- Experience working with professional and alternative models and makeup artists
+- Solo show, The Dive Bar - 2nd Floor, Philadelphia, PA, 2015.
+- Alumni Exhibition, Group Show, Moore College of Art & Design, Philadelphia, PA, 2014
 
 
 ### WYBE Public Television
@@ -60,13 +73,6 @@
 - Project Management for the company’s national health care, life sciences, chemicals risk management and insurance practices.
 - Knowledge management for the company intranet, maintained and managed web content for life sciences and chemical practices.
 - Coordination of yearly Managed Care Forum and the ASHRM (American Society for Healthcare Risk Managers) Conference events.
-    - Recent Exhibitions, Activities & Memberships
-    - Solo show, The Dive Bar - 2nd Floor, Philadelphia, PA, 2015.
-    - Alumni Exhibition, Group Show, Moore College of Art & Design, Philadelphia, PA, 2014
-    - Philadelphia Zoo, Volunteer in their Camera Club 2013 - present
-    - Member of Moore's  Staff Council since 2006, Chair  2014 - 2015. 
-    - Chair of Moore's Environmental Task Force 2007-2009.
-    - United Way Campaign Coordinator at Moore in 2006 and 2007. 
 
 ## Other Projects
 
