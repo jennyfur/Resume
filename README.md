@@ -46,7 +46,7 @@
 - United Way Campaign Coordinator at Moore in 2006 and 2007. 
 
 ### Philadelphia Zoo 
-Volunteer (2013 - present)
+##### Volunteer (2013 - present)
 - Camera Club Member. The club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other’s recent work. 
 
 ### Jennifer Vatza Photography
