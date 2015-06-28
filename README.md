@@ -58,7 +58,7 @@ Volunteer (2013 - present)
 - Event photos from NUMiNOUS Magazine Release Party will be published in the Censorship Issue.
 - Solo show, The Dive Bar - 2nd Floor, Philadelphia, PA, 2015.
 - Alumni Exhibition, Group Show, Moore College of Art & Design, Philadelphia, PA, 2014
-
+- Website Developer (WordPress) & Photographer, Make Up Artist Liz Website: http://www.makeupartistliz.com/, 2010 - 2014
 
 ### WYBE Public Television
 
@@ -67,6 +67,28 @@ Volunteer (2013 - present)
 - Oversaw database conversion from MEMSYS to Raiser’s Edge to completion and managed the station’s membership database.
 - Project management for development practices and prospect research for major giving.
 - Planned and coordinated On-Air Membership Pledge Drives and organized the Annual Wine Auction.
+- 
+### Second Life
+Freelance Virtual Worlds Content Creator and Event Coordinator (2004-2008)
+
+- Virtual Content Creator for Deadly Nightshade Design Studio, a virtual fashion design label and store selling stylish and sophisticated women’s wear, men’s wear and accessories. Responsible for 3-D character design, product marketing within Second Life, and created all fashion photographs and product images. 2004 - 2007
+- Co-Owner of Peregrine Salon, a consulting, development and project management company for various virtual world projects. 2004 - 2008
+- Co-Founder, Lead Organizer and Board Member for the Second Life Community Convention from 2005 – 2007. The convention was attended by virtual world enthusiasts and industry experts from around the world featuring keynote speakers such as Philip Rosedale, founder of Linden Lab, the creators of Second Life and Mitch Kapor, founder of Lotus Development Corporation, and chair of the Mozilla Foundation.
+- Co-Founder, SLBoutique.com, a web-based marketplace for content created in the virtual world Second Life. The company was sold in 2006 and eventually was bought by Linden Lab, the creators of Second Life and re-branded as part of their website. 2005 – 2007.
+- Jennifer participated on a panel discussion on Music and New Media at The Philadelphia Future Salon 
+- Jennifer and her husband Timothy Allen were guest lecturers for a class at the University of Pennsylvania on the perception of public spaces speaking on how virtual worlds are changing the perceptions people have of public space.
+- “Virtual World Entrepreneurs” presentation at the University of the Arts on personal accomplishments in Second Life presented to graduate student fellows, faculty and staff for orientation to the platform.
+- Speaker on five panels regarding virtual worlds at the 70th Annual Philadelphia Science Fiction Convention.
+-  Jennifer and her husband Timothy Allen co-presented “Ready to Wear: Fashion Design for a Virtual World” to fashion and textile students at Philadelphia University
+- Co-presented “Virtual World Entrepreneurs” with husband Timothy Allen and  attorney Frank Taney at the Philadelphia Future Salon: 
+- Jennifer co-presented with Catherine Smith of Linden Lab “Ready to Wear: Fashion Design for a Virtual World” at the AATCC/CITDA Global Design Symposium at QVC’s Global Headquarters 
+- Tim and Jennifer were featured on a news segment Right Now on the Net about Second Life ABC Action News (Local)
+- Jennifer and Timothy were featured on CNBC's On the Money and background footage of Jennifer shown in a variety of news clips on CNBC, MSNBC and NBC. Some of the footage was used for a MSNBC documentary on the history of video games.
+- Featured in a 3-part segment for Berks Edition nightly news program FMZ TV News for innovative work done on the Second Life platform.
+- Some of Jennifer’s creations and her in world store were featured in the Second Life In-World Travel Guide.
+- Interviewed and featured extensively on fashion content creation and Second Life in The Entrepreneur’s Guide to Second Life: 
+- Featured in many places within the first official book about Second Life Second Life: The Official Guide, primarily discussing being a founder and lead organizer of the Second Life Community Convention.
+- Early article in San Francisco newspaper East Bay Express about Second Life, featuring a full side panel.
 
 ### Marsh, Inc.
 
@@ -75,15 +97,6 @@ Volunteer (2013 - present)
 - Project Management for the company’s national health care, life sciences, chemicals risk management and insurance practices.
 - Knowledge management for the company intranet, maintained and managed web content for life sciences and chemical practices.
 - Coordination of yearly Managed Care Forum and the ASHRM (American Society for Healthcare Risk Managers) Conference events.
-
-## Other Projects
-
-- Website Developer (WordPress) & Photographer, Make Up Artist Liz Website: http://www.makeupartistliz.com/, 2010 - 2014
-- Website Developer (WordPress), It’s My Nature Photography Website: http://www.edvatza.com/, 2010 - 2014
-- Co-Owner of Peregrine Salon, a consulting, development and project management company for various virtual world projects. 2004 - 2008
-- Co-Founder, Lead Organizer and Board Member for the Second Life Community Convention from 2005 – 2007. From its inception in 2005, the convention has been attended by virtual world enthusiasts and industry experts from around the world featuring keynote speakers such as Philip Rosedale, founder of Linden Lab, the creators of Second Life and Mitch Kapor, founder of Lotus Development Corporation, and chair of the Mozilla Foundation.
-- Virtual Content Creator for Deadly Nightshade Design Studio, a virtual fashion design label and store selling stylish and sophisticated women’s wear, men’s wear and accessories. Responsible for 3-D character design, product marketing within Second Life, and created all fashion photographs and product images. 2004 - 2007
-- Co-Founder, SLBoutique.com, a web-based marketplace for content created in the virtual world Second Life. The company was sold in 2006 and eventually was bought by Linden Lab, the creators of Second Life and re-branded as part of their website. 2005 – 2007.
 
 ## Professional Development
 
@@ -98,27 +111,5 @@ Volunteer (2013 - present)
 - Website Courses: Responsive Design Fundamentals, Website Strategy and Planning, Website Planning and Wireframing, Google Analytics Essential Training, Website Design Fundamentals, Web Site Strategy and Planning, CMS Fundamentals, GitHub for Web Designers
 - Social Media Courses: Facebook Advertising Fundamentals, Pinterest for Business Sharing Photos with Instagram Up and Running with Vine, Up and Running with SnapChat, Up and Running with Pinterest, Google+ for Business, Twitter Essential Training, Up and Running with Tumblr, Social Media Marketing with Facebook and Twitter.
 
-## Professional Achievements 
 
-During 2006, 2007 & 2008 Jennifer spoke at the following events and organizations:
 
-- Philadelphia Future Salon: Jennifer participated on a panel discussion on Music and New Media. The Philadelphia Future Salon is now part of the Philadelphia Area New Media Association (PANMA).
-- University of Pennsylvania: Jennifer and her husband Timothy Allen were guest lecturers for a class on the perception of public spaces speaking on how virtual worlds are changing the perceptions people have of public space.
-- University of the Arts: “Virtual World Entrepreneurs” presentation on personal accomplishments in Second Life presented to graduate student fellows, faculty and staff for orientation to the platform.
-- Philcon 2006: Speaker on five panels regarding virtual worlds at the 70th Annual Philadelphia Science Fiction Convention.
-- Philadelphia University: Jennifer and her husband Timothy Allen co-presented “Ready to Wear: Fashion Design for a Virtual World” to fashion and textile students.
-- Philadelphia Future Salon: Co-presented “Virtual World Entrepreneurs” with husband Timothy Allen and  attorney Frank Taney.
-- AATCC/CITDA Global Design Symposium: Jennifer co-presented with Catherine Smith of Linden Lab “Ready to Wear: Fashion Design for a Virtual World” at QVC’s Global Headquarters in West Chester, PA.
-
-During 2006 and 2007 Jennifer appeared on several news programs on television
-
-- ABC Action News (Local): Tim and Jennifer were featured on a news segment Right Now on the Net about Second Life.
-- CNBC's On the Money (March, 2006): Background footage of Timothy and Jennifer shown as "desirable, tech savvy consumers". The footage has also been used in a variety of news clips on CNBC, MSNBC and NBC. Some of the footage was used for a MSNBC documentary on the history of video games.
-- WFMZ TV News (February 21st-23rd, 2007): Featured in a 3-part segment for Berks Edition nightly news program for innovative work done on the Second Life platform.
-
-During 2005, 2006, 2007 & 2008 Jennifer was featured in the following print and web publications
-
-- Second Life In-World Travel Guide: Some of Jennifer’s creations and her in world store were featured in this travel guide about Second Life.
-- The Entrepreneur’s Guide to Second Life: Interviewed and featured extensively on fashion content creation and Second Life.
-- Second Life: The Official Guide: Featured in many places within the first official book about Second Life, primarily discussing being a founder and lead organizer of the Second Life Community Convention.
-- East Bay Express: Early article in San Francisco newspaper about Second Life, featuring a full side panel.
