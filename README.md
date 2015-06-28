@@ -67,7 +67,7 @@
 - Oversaw database conversion from MEMSYS to Raiser’s Edge to completion and managed the station’s membership database.
 - Project management for development practices and prospect research for major giving.
 - Planned and coordinated On-Air Membership Pledge Drives and organized the Annual Wine Auction.
-- 
+
 ### Second Life
 ##### Freelance Virtual Worlds Content Creator and Event Coordinator (2004-2008)
 
