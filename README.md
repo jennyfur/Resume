@@ -40,12 +40,12 @@
 - Assisted with  annual fundraising campaigns including all print materials, html emails and website materials.
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts.
 
-Leadership Roles at Moore (2006 - 2015)
+##### Leadership Roles at Moore (2006 - 2015)
 - Member of Moore's  Staff Council 2006 - 2015, Chair  2014 - 2015. 
 - Chair of Moore's Environmental Task Force 2007-2009.
 - United Way Campaign Coordinator at Moore in 2006 and 2007. 
 
-Philadelphia Zoo 
+### Philadelphia Zoo 
 Volunteer (2013 - present)
 - Camera Club Member. The club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other’s recent work. 
 
@@ -69,7 +69,7 @@ Volunteer (2013 - present)
 - Planned and coordinated On-Air Membership Pledge Drives and organized the Annual Wine Auction.
 - 
 ### Second Life
-Freelance Virtual Worlds Content Creator and Event Coordinator (2004-2008)
+##### Freelance Virtual Worlds Content Creator and Event Coordinator (2004-2008)
 
 - Virtual Content Creator for Deadly Nightshade Design Studio, a virtual fashion design label and store selling stylish and sophisticated women’s wear, men’s wear and accessories. Responsible for 3-D character design, product marketing within Second Life, and created all fashion photographs and product images. 2004 - 2007
 - Co-Owner of Peregrine Salon, a consulting, development and project management company for various virtual world projects. 2004 - 2008
