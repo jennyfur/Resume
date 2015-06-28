@@ -110,6 +110,3 @@
 - Software Courses: Up and Running with Lightroom 5, Lightroom 5 Essentials: Importing with the Library Module, Managing Images with the Library Modules, Develop Module Basics, and Develop Module Advanced Techniques, Photoshop CS3 One on One Essentials.
 - Website Courses: Responsive Design Fundamentals, Website Strategy and Planning, Website Planning and Wireframing, Google Analytics Essential Training, Website Design Fundamentals, Web Site Strategy and Planning, CMS Fundamentals, GitHub for Web Designers
 - Social Media Courses: Facebook Advertising Fundamentals, Pinterest for Business Sharing Photos with Instagram Up and Running with Vine, Up and Running with SnapChat, Up and Running with Pinterest, Google+ for Business, Twitter Essential Training, Up and Running with Tumblr, Social Media Marketing with Facebook and Twitter.
-
-
-
