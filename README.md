@@ -8,13 +8,13 @@
 
 ## Skills
 
-- Website content management systems, Apostrophe, Simple CMS , WordPress, Weebly and other custom proprietary content management systems. 
+- Website Content Management Systems: WordPress, Mediawiki, Apostrophe, Simple CMS, Weebly and other custom proprietary content management systems. 
 - Experience with managing website upgrades, redesigns and content management system conversion projects
-- Social media management: Facebook, Twitter, Instagram, Pinterest, FourSquare, YouTube, Google Plus, LinkedIn, Flickr, Vine, Snapchat, and Tumblr.
-- Over twenty years of photography experience in analog photography and thirteen years of digital photography experience.
-- Technical skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3-D printing, 3-D character avatar design, Laser Cutter, Git version control, Markdown
+- Social Media Account Management, Privacy, and Marketing: Facebook, Twitter, Instagram, Pinterest, FourSquare, YouTube, Google Plus, LinkedIn, Flickr, Vine, Snapchat, and Tumblr.
+- Photography: over twenty years of photography experience in analog photography and thirteen years of digital photography experience.
+- Technical Skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3-D printing, 3-D character avatar design, Laser Cutter, Git version control, Markdown
 - Other Software Products: Microsoft Office Suite (expert in Word, Excel, Powerpoint, including mail merges, document sharing, and more), Google Docs, Basecamp, GitHub, Raiser's Edge Fundraising Database
-- Project management experience: web content, social media, event and conference planning, alumni relations, fundraising
+- Project Management Experience: event and conference planning, web content, registration and payment, social media, alumni relations, fundraising
 
 ## Work Experience
 
