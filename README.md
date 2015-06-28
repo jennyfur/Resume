@@ -2,8 +2,8 @@
 
 The latest version is always available online:
 
-- Markdown format: https://raw.githubusercontent.com/jennyfur/Resume/master/README.md
-- GitHub: https://github.com/jennyfur/Resume/blob/master/README.md
+- GitHub (for reading): https://github.com/jennyfur/Resume/blob/master/README.md
+- Markdown (raw text format): https://raw.githubusercontent.com/jennyfur/Resume/master/README.md
 
 ## Education
 
