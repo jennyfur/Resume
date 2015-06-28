@@ -1,4 +1,9 @@
-# Jennifer Vatza
+# Jennifer Vatza Resume
+
+The latest version is always available online:
+
+- Markdown format: https://raw.githubusercontent.com/jennyfur/Resume/master/README.md
+- GitHub: https://github.com/jennyfur/Resume/blob/master/README.md
 
 ## Education
 
