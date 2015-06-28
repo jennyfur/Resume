@@ -40,9 +40,9 @@
 - Assisted with annual fundraising campaigns including all print materials, HTML emails and website materials.
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts.
 
-##### Leadership Roles at Moore (2006 - 2015)
+##### Leadership Roles at Moore (2006 - Present)
 
-- Member of Moore's  Staff Council 2006 - 2015, Chair  2014 - 2015. 
+- Member of Moore's Staff Council 2006 - Present. Chair of Staff Council 2014 - Present. 
 - Chair of Moore's Environmental Task Force 2007-2009.
 - United Way Campaign Coordinator at Moore in 2006 and 2007. 
 
@@ -56,12 +56,14 @@
 
 ##### Owner & Photographer (2010 - present)
 
-- Freelance photographic services for portrait photography, professional headshots, and events.
+- Freelance photographic services for portrait photography, professional headshots, and events
 - Experience working with professional and alternative models and makeup artists
-- Event photos from NUMiNOUS Magazine Release Party will be published in the Censorship Issue.
-- Solo show, The Dive Bar - 2nd Floor, Philadelphia, PA, 2015.
-- Alumni Exhibition, Group Show, Moore College of Art & Design, Philadelphia, PA, 2014
-- Website Developer (WordPress) & Photographer, Make Up Artist Liz Website: http://www.makeupartistliz.com/, 2010 - 2014
+- Event photos from NUMiNOUS Magazine Release Party will be published in the Censorship Issue
+- Solo show: The Dive Gallery, Philadelphia, PA, 2015
+- Alumni exhibition, group show: Moore College of Art & Design, Philadelphia, PA, 2014
+- Website Developer (WordPress) & Photographer:
+    - Make Up Artist Liz: http://www.makeupartistliz.com/ (2010 - 2014)
+    - Taney Legal, LLC: http://www.taneylegal.com/ (2013 - Present)
 
 ### WYBE Public Television
 
