@@ -23,30 +23,33 @@
 ##### Web and Social Media Coordinator (2009 - Present)
 
 - Web content management for Moore's website, involving working with staff, faculty and students to provide updates with program information, news, events, and slide shows of student, alumni and faculty artwork: http://www.moore.edu. 
-- Project Manager for the launch of Moore's new website in August 2013 and for the initial conversion project of Moore's web site from the Simple CMS content management system and to the Apostrophe content management system in 2011.
-- Contributed photography of events, classrooms and other campus activities since 2013, including a photoshoot with Project Runway Season 12 winner Dom Streater for ad campaigns used on local billboards and in national arts magazines. 
+- Project Manager for the launch of Moore's new website in August 2013 and for the initial conversion project of Moore's web site from the Simple CMS content management system to the Apostrophe content management system in 2011.
+- Contributed photography of events, classrooms and other campus activities since 2013, including a photoshoot with Mayor Nutter, and Project Runway Season 12 winner Dom Streater for ad campaigns used on local highway billboards and in national arts magazines. 
 - Trained staff on the proper use of digital cameras and Adobe Lightroom for image processing.
 - Implemented a plan with the Marketing & Communications department to develop a college wide social media marketing plan.
 - Managed all institutional social media properties: Facebook, Pinterest, Twitter, Instagram, LinkedIn, Tumblr, Google Plus and Vine.  
 - Advised other departments on setting up their own Facebook pages and other social media properties.
 
-##### Fundraising Coordinator (2006 - 2015)
+##### Fundraising Coordinator (2006 - Present)
 
 - Managed the Raiser's Edge database in order to determine the best possible way to normalize and store data for retrieval. 
-- Maintained control of the database analyzing all informational requirements, developed database specifications, and enforced all database standards. 
+- Maintained control of the database analyzing all informational requirements, developed database specifications, created reports, and enforced all database standards. 
 - Oversaw database conversion from PowerCampus to Raiser's Edge in 2006
 - Managed work-study students, scheduling, projects and work flow.
 - Assisted with planning annual events at Moore including: the Visionary Woman Awards, Fashion Show, Alumni Reunions & Exhibitions and special 160th Anniversary Celebrations in 2008.
-- Assisted with  annual fundraising campaigns including all print materials, html emails and website materials.
+- Assisted with annual fundraising campaigns including all print materials, HTML emails and website materials.
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts.
 
 ##### Leadership Roles at Moore (2006 - 2015)
+
 - Member of Moore's  Staff Council 2006 - 2015, Chair  2014 - 2015. 
 - Chair of Moore's Environmental Task Force 2007-2009.
 - United Way Campaign Coordinator at Moore in 2006 and 2007. 
 
 ### Philadelphia Zoo 
+
 ##### Volunteer (2013 - present)
+
 - Camera Club Member. The club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
 
 ### Jennifer Vatza Photography
