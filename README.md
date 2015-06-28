@@ -55,6 +55,7 @@ Volunteer (2013 - present)
 
 - Freelance photographic services for portrait photography, professional headshots, and events.
 - Experience working with professional and alternative models and makeup artists
+- Event photos from NUMiNOUS Magazine Release Party will be published in the Censorship Issue.
 - Solo show, The Dive Bar - 2nd Floor, Philadelphia, PA, 2015.
 - Alumni Exhibition, Group Show, Moore College of Art & Design, Philadelphia, PA, 2014
 
