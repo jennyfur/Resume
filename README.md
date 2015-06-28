@@ -18,7 +18,7 @@
 
 ## Work Experience
 
-### Moore College of Art & Design (2006 - Present)
+### Moore College of Art & Design 
 
 ##### Web and Social Media Coordinator (2009 - Present)
 
