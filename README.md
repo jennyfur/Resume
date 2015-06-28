@@ -40,9 +40,10 @@
 - Assisted with  annual fundraising campaigns including all print materials, html emails and website materials.
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts.
 
-Member of Moore's  Staff Council since 2006, Chair  2014 - 2015. 
-Chair of Moore's Environmental Task Force 2007-2009.
-United Way Campaign Coordinator at Moore in 2006 and 2007. 
+Leadership Roles at Moore (2006 - 2015)
+- Member of Moore's  Staff Council 2006 - 2015, Chair  2014 - 2015. 
+- Chair of Moore's Environmental Task Force 2007-2009.
+- United Way Campaign Coordinator at Moore in 2006 and 2007. 
 
 Philadelphia Zoo 
 Volunteer (2013 - present)
