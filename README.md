@@ -18,7 +18,7 @@
 
 ### Work Experience
 
-#### Moore College of Art & Design 
+##### Moore College of Art & Design 
 
 ###### Web and Social Media Coordinator (2009 - Present)
 
@@ -46,13 +46,13 @@
 - Chair of Moore's Environmental Task Force (2007 - 2009)
 - United Way Campaign Coordinator at Moore (2006 - 2007)
 
-#### Philadelphia Zoo 
+##### Philadelphia Zoo 
 
 ###### Volunteer (2013 - Present)
 
 - Camera Club Member: the club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
 
-#### Jennifer Vatza Photography
+##### Jennifer Vatza Photography
 
 ###### Owner & Photographer (2010 - Present)
 
@@ -66,7 +66,7 @@
     - Taney Legal, LLC: http://www.taneylegal.com/ (2013 - Present)
     - Make Up Artist Liz: http://www.makeupartistliz.com/ (2010 - 2014)
 
-#### WYBE Public Television
+##### WYBE Public Television
 
 ###### Development Associate (2004 - 2005)
 
@@ -74,7 +74,7 @@
 - Project management for development practices and prospect research for major giving
 - Planned and coordinated On-Air Membership Pledge Drives and organized the Annual Wine Auction
 
-#### Second Life
+##### Second Life
 
 ###### Freelance Virtual Worlds Content Creator and Event Coordinator (2004 - 2008)
 
@@ -96,7 +96,7 @@
 - Interviewed and featured extensively on fashion content creation and Second Life in the book, The Entrepreneur's Guide to Second Life.
 - Featured in many places within the first official book about Second Life, Second Life: The Official Guide, primarily discussing being a founder and lead organizer of the Second Life Community Convention.
 
-#### Marsh, Inc.
+##### Marsh, Inc.
 
 ###### Administrative Assistant (2000 - 2004)
 
