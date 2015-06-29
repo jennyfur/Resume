@@ -46,25 +46,19 @@
 - Chair of Moore's Environmental Task Force (2007 - 2009)
 - United Way Campaign Coordinator at Moore (2006 - 2007)
 
-##### Philadelphia Zoo 
-
-###### Volunteer (2013 - Present)
-
-- Camera Club Member: the club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
-
 ##### Jennifer Vatza Photography
 
-###### Owner & Photographer (2010 - Present)
+###### Photography: Volunteer and Professional (2010 - Present)
 
-- Freelance photographic services for portrait photography, professional headshots, and events
-- Experience working with professional and alternative models and makeup artists
-- Event photos from NUMiNOUS Magazine Release Party will be published in the Censorship Issue
-- Solo show: The Dive Gallery, Philadelphia, PA, 2015
-- Alumni exhibition, group show: Moore College of Art & Design, Philadelphia, PA, 2014
+- Volunteer, Philadelphia Zoo (Camera Club Member): the club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
 - Website Developer (WordPress) & Photographer:
     - Ed Vatza Photography: http://www.edvatza.com/ (2010 - Present)
     - Taney Legal, LLC: http://www.taneylegal.com/ (2013 - Present)
     - Make Up Artist Liz: http://www.makeupartistliz.com/ (2010 - 2014)
+- Freelance photographic services for portrait photography, professional headshots, and events; experience working with professional models and makeup artists
+- Event photos from NUMiNOUS Magazine Release Party will be published in the Censorship Issue
+- Solo show: The Dive Gallery, Philadelphia, PA, 2015
+- Alumni exhibition, group show: Moore College of Art & Design, Philadelphia, PA, 2014
 
 ##### WYBE Public Television
 
@@ -78,23 +72,10 @@
 
 ###### Freelance Virtual Worlds Content Creator and Event Coordinator (2004 - 2008)
 
-- Virtual Content Creator for Deadly Nightshade Design Studio, a virtual fashion design label and store selling stylish and sophisticated women's wear, men's wear and accessories. Responsible for 3-D character design, product marketing within Second Life, and created all fashion photographs and product images (2004 - 2007)
-- Co-Owner of Peregrine Salon, a consulting, development and project management company for various virtual world projects (2004 - 2009)
-- Co-Founder, Lead Organizer and Board Member for the Second Life Community Convention. The convention was attended by virtual world enthusiasts and industry experts from around the world. It featured keynote speakers such as Philip Rosedale, founder and creator of Second Life and inventor of video streaming, Mitch Kapor, founder of Lotus Development Corporation, and chair of the Mozilla Foundation, and Cory Ondrejka, former VP of Engineering of Facebook. (2005 - 2007)
-- Co-Founder, SLBoutique.com, a web-based marketplace for content created in the virtual world Second Life. The company was sold in 2006 and eventually bought by Second Life creator Linden Lab, and re-branded as part of their website (2005 - 2007)
-- Jennifer participated on a panel discussion on Music and New Media at The Philadelphia Future Salon.
-- Jennifer and her husband Timothy Allen were guest lecturers for a class at the University of Pennsylvania on the perception of public spaces speaking on how virtual worlds are changing the perceptions people have of public space.
-- Gave a presentation on "Virtual World Entrepreneurs" at the University of the Arts on personal accomplishments in Second Life. It was presented to graduate student fellows, faculty and staff for orientation to the platform.
-- Spoke on five panels regarding virtual worlds at the 70th Annual Philadelphia Science Fiction Convention.
-- Jennifer and her husband Timothy Allen co-presented "Ready to Wear: Fashion Design for a Virtual World" to fashion and textile students at Philadelphia University.
-- Co-presented "Virtual World Entrepreneurs" with husband Timothy Allen and attorney Frank Taney at the Philadelphia Future Salon.
-- Jennifer co-presented with Catherine Smith of Linden Lab "Ready to Wear: Fashion Design for a Virtual World" at the AATCC/CITDA Global Design Symposium at QVC's Global Headquarters.
-- Tim and Jennifer were featured on a news segment Right Now on the Net about Second Life ABC Action News (Local).
-- Jennifer and Timothy were featured on CNBC's On the Money and background footage of Jennifer shown in a variety of news clips on CNBC, MSNBC and NBC. Some of the footage was used for a MSNBC documentary on the history of video games.
-- Featured in a 3-part segment for Berks Edition nightly news program WFMZ TV News for innovative work done on the Second Life platform.
-- Some of Jennifer's creations and her in world store were featured in the book, The Second Life In-World Travel Guide.
-- Interviewed and featured extensively on fashion content creation and Second Life in the book, The Entrepreneur's Guide to Second Life.
-- Featured in many places within the first official book about Second Life, Second Life: The Official Guide, primarily discussing being a founder and lead organizer of the Second Life Community Convention.
+- Founded, designed, marketed, and distributed own virtual fashion label and business, Deadly Nightshare. Co-Owned Peregrine Salon, LLC, a virtual worlds development firm. Co-Founder, Lead Organizer, and Board Member for the Second Life Community Convention, the largest yearly gathering of virtual worlds enthusiasts. Keynotes included Philip Rosedale, inventor of video streaming, Mitch Kapor, founder of Lotus, and Cory Ondrejka, VP of Engineering of Facebook. Co-Founder and chief marketer of SLBoutique.com, a web-based marketplace for virtual items CNN declared, "the Amazon.com of virtual items."
+- Lecturer and panel participant at Universities and conferences, including the University of Pennsylvania (COMM 300, Public Space & Public Life), University of the Arts, Philadelphia University, the Philadelphia Future Salon, the Philadelphia Science Fiction Convention, and QVC's global headquarters.
+- Interviewed for many TV outlets, including CNBC's *On the Money*, ABC News's *Right Now on the Net*, and WFMZ's nightly news. Footage was also used for a documentary on the history of video games aired on NBC and MSNBC.
+- Featured in several books on *Second Life: The Second Life In-World Travel Guide*, *The Entrepreneur's Guide to Second Life*, and *Second Life: The Official Guide*, about being a well known virtual fashion designer and businesswoman, and co-founder of the Second Life Community Convention, the largest yearly gathering of virtual world enthusiasts.
 
 ##### Marsh, Inc.
 
