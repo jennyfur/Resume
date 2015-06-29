@@ -1,10 +1,5 @@
 # Jennifer Vatza Resume
 
-The latest version is always available online:
-
-- GitHub (for reading): https://github.com/jennyfur/Resume/blob/master/README.md
-- Markdown (raw text format): https://raw.githubusercontent.com/jennyfur/Resume/master/README.md
-
 ## Education
 
 - Pursuing a Master of Fine Arts degree in Studio Arts with Photography Emphasis (in progress)
