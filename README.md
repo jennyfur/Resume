@@ -53,13 +53,13 @@ The latest version is always available online:
 
 ### Philadelphia Zoo 
 
-##### Volunteer (2013 - present)
+##### Volunteer (2013 - Present)
 
 - Camera Club Member: the club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
 
 ### Jennifer Vatza Photography
 
-##### Owner & Photographer (2010 - present)
+##### Owner & Photographer (2010 - Present)
 
 - Freelance photographic services for portrait photography, professional headshots, and events
 - Experience working with professional and alternative models and makeup artists
@@ -67,8 +67,9 @@ The latest version is always available online:
 - Solo show: The Dive Gallery, Philadelphia, PA, 2015
 - Alumni exhibition, group show: Moore College of Art & Design, Philadelphia, PA, 2014
 - Website Developer (WordPress) & Photographer:
-    - Make Up Artist Liz: http://www.makeupartistliz.com/ (2010 - 2014)
+    - Ed Vatza Photography: http://www.edvatza.com/ (2010 - Present)
     - Taney Legal, LLC: http://www.taneylegal.com/ (2013 - Present)
+    - Make Up Artist Liz: http://www.makeupartistliz.com/ (2010 - 2014)
 
 ### WYBE Public Television
 
