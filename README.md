@@ -1,12 +1,12 @@
-# Jennifer Vatza Resume
+## Jennifer Vatza Resume
 
-## Education
+### Education
 
 - Pursuing a Master of Fine Arts degree in Studio Arts with Photography Emphasis (in progress)
 - Bachelor of Fine Arts degree in Studio Arts with Art History Emphasis, Moore College of Art & Design, 2004
 - Professional development courses (please see below)
 
-## Skills
+### Skills
 
 - Website Content Management Systems: WordPress, Mediawiki, Apostrophe, Simple CMS, Weebly, Django Md-CMS and other custom proprietary content management systems
 - Experience with managing website upgrades, redesigns and content management system conversion projects
@@ -16,11 +16,11 @@
 - Other Software Products: Microsoft Office Suite (expert in Word, Excel, Powerpoint, including mail merges, document sharing, and more), Google Docs, Basecamp, GitHub, Raiser's Edge Fundraising Database
 - Project Management Experience: event and conference planning, web content, registration and payment, social media, alumni relations, fundraising
 
-## Work Experience
+### Work Experience
 
-### Moore College of Art & Design 
+#### Moore College of Art & Design 
 
-##### Web and Social Media Coordinator (2009 - Present)
+###### Web and Social Media Coordinator (2009 - Present)
 
 - Web content management for Moore's website, involving working with staff, faculty and students to provide updates with program information, news, events, and slide shows of student, alumni and faculty artwork: http://www.moore.edu
 - Project Manager for the launch of Moore's new website in August 2013 and for the initial conversion project of Moore's web site from the Simple CMS content management system to the Apostrophe content management system in 2011
@@ -30,7 +30,7 @@
 - Managed all institutional social media properties: Facebook, Pinterest, Twitter, Instagram, LinkedIn, Tumblr, Google Plus and Vine
 - Advised other departments on setting up their own Facebook pages and other social media properties
 
-##### Fundraising Coordinator (2006 - Present)
+###### Fundraising Coordinator (2006 - Present)
 
 - Managed the Raiser's Edge database in order to determine the best possible way to normalize and store data for retrieval
 - Maintained control of the database analyzing all informational requirements, developed database specifications, created reports, and enforced all database standards
@@ -40,21 +40,21 @@
 - Assisted with annual fundraising campaigns including all print materials, HTML emails and website materials
 - Prospect research using ResearchPoint, Raiser's Edge and other sources on selected donors for major gifts
 
-##### Leadership Roles at Moore (2006 - Present)
+###### Leadership Roles at Moore (2006 - Present)
 
 - Member of Moore's Staff Council 2006 - Present (Chair: 2014 - Present)
 - Chair of Moore's Environmental Task Force (2007 - 2009)
 - United Way Campaign Coordinator at Moore (2006 - 2007)
 
-### Philadelphia Zoo 
+#### Philadelphia Zoo 
 
-##### Volunteer (2013 - Present)
+###### Volunteer (2013 - Present)
 
 - Camera Club Member: the club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
 
-### Jennifer Vatza Photography
+#### Jennifer Vatza Photography
 
-##### Owner & Photographer (2010 - Present)
+###### Owner & Photographer (2010 - Present)
 
 - Freelance photographic services for portrait photography, professional headshots, and events
 - Experience working with professional and alternative models and makeup artists
@@ -66,17 +66,17 @@
     - Taney Legal, LLC: http://www.taneylegal.com/ (2013 - Present)
     - Make Up Artist Liz: http://www.makeupartistliz.com/ (2010 - 2014)
 
-### WYBE Public Television
+#### WYBE Public Television
 
-##### Development Associate (2004 - 2005)
+###### Development Associate (2004 - 2005)
 
 - Oversaw database conversion from MEMSYS to Raiser's Edge to completion and managed the station's membership database
 - Project management for development practices and prospect research for major giving
 - Planned and coordinated On-Air Membership Pledge Drives and organized the Annual Wine Auction
 
-### Second Life
+#### Second Life
 
-##### Freelance Virtual Worlds Content Creator and Event Coordinator (2004 - 2008)
+###### Freelance Virtual Worlds Content Creator and Event Coordinator (2004 - 2008)
 
 - Virtual Content Creator for Deadly Nightshade Design Studio, a virtual fashion design label and store selling stylish and sophisticated women's wear, men's wear and accessories. Responsible for 3-D character design, product marketing within Second Life, and created all fashion photographs and product images (2004 - 2007)
 - Co-Owner of Peregrine Salon, a consulting, development and project management company for various virtual world projects (2004 - 2009)
@@ -96,21 +96,21 @@
 - Interviewed and featured extensively on fashion content creation and Second Life in the book, The Entrepreneur's Guide to Second Life.
 - Featured in many places within the first official book about Second Life, Second Life: The Official Guide, primarily discussing being a founder and lead organizer of the Second Life Community Convention.
 
-### Marsh, Inc.
+#### Marsh, Inc.
 
-##### Administrative Assistant (2000 - 2004)
+###### Administrative Assistant (2000 - 2004)
 
 - Project Management for the company's national health care, life sciences, chemicals risk management and insurance practices.
 - Knowledge management for the company intranet, maintained and managed web content for life sciences and chemical practices.
 - Coordination of yearly Managed Care Forum and the ASHRM (American Society for Healthcare Risk Managers) Conference events.
 
-## Professional Development
+### Professional Development
 
-##### Moore College of Art & Design (Continuing Education)
+###### Moore College of Art & Design (Continuing Education)
 
 - Digital Photography Studio, 2013
 
-##### Completed Online, via Lynda.com: 
+###### Completed Online, via Lynda.com: 
 
 - Photography & Video Courses: Product Photography for eCommerce, Insights on Product Photography, Up and Running with DSLR Film Making, Creative DSLR Video Techniques, Shooting with the Canon 5D Mark III, Video for Photographers: Shooting with a DSLR, Up and Running with Studio Strobes, Lighting for Photographers: Portraiture, Narrative Portraiture: Foundations of Portraiture, Green Screen Techniques for Video and Photography, Lens Reversal Macro Photography, Foundations of Photography: Exposure, Composition, Lenses, Night and Low Light, Macro and Close Up, Flash, Speciality Lenses, Up and Running with Natural Light, Up and Running with Lighting: Studio Lights and Flash, Digital Photography Principles: The Camera, Lighting with Flash: Basics, Lighting for Photographers: Flash Exposure Fundamentals, Photography 101.
 - Software Courses: Up and Running with Lightroom 5, Lightroom 5 Essentials: Importing with the Library Module, Managing Images with the Library Modules, Develop Module Basics, and Develop Module Advanced Techniques, Photoshop CS3 One on One Essentials.
