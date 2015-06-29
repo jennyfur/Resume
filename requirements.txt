@@ -1,0 +1,4 @@
+# Note: PDF kit requires wkhtmltopdf. On Ubuntu: apt-get install wkhtmltopdf
+# Otherwise, see: https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+pdfkit==0.5.0
+Markdown==2.6.2
