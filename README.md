@@ -11,7 +11,7 @@
 - Website Content Management Systems: WordPress, Mediawiki, Apostrophe, Simple CMS, Weebly, Django Md-CMS and other custom proprietary content management systems
 - Experience with managing website upgrades, redesigns and content management system conversion projects
 - Social Media Account Management, Privacy, and Marketing: Facebook, Twitter, Instagram, Pinterest, FourSquare, YouTube, Google Plus, LinkedIn, Flickr, Vine, Snapchat, and Tumblr
-- Photography: over twenty years of photography experience in analog photography and thirteen years of digital photography experience
+- Photography: over twenty years of photography experience 
 - Technical Skills: Adobe Creatuive Suite Master Collection (proficient in Adobe Photoshop, Adobe Lightroom, Adobe Bridge, Adobe Premiere, and Adobe After Effects), 3-D printing, 3-D character avatar design, Laser Cutter, Git version control, Markdown
 - Other Software Products: Microsoft Office Suite (expert in Word, Excel, Powerpoint, including mail merges, document sharing, and more), Google Docs, Basecamp, GitHub, Raiser's Edge Fundraising Database
 - Project Management Experience: event and conference planning, web content, registration and payment, social media, alumni relations, fundraising
@@ -22,17 +22,17 @@
 
 ###### Web and Social Media Coordinator (2009 - Present)
 
-- Web content management for Moore's website, involving working with staff, faculty and students to provide updates with program information, news, events, and slide shows of student, alumni and faculty artwork: http://www.moore.edu
+- Web content management for Moore's website: http://www.moore.edu
 - Project Manager for the launch of Moore's new website in August 2013 and for the initial conversion project of Moore's web site from the Simple CMS content management system to the Apostrophe content management system in 2011
-- Contributed photography of events, classrooms and other campus activities since 2013, including a photoshoot with Mayor Nutter, and Project Runway Season 12 winner Dom Streater for ad campaigns used on local highway billboards and in national arts magazines
+- Contributed photography of events, classrooms and other campus activities since 2013, including a photoshoot with Project Runway Season 12 winner Dom Streater for ad campaigns used on local highway billboards and in national arts magazines and another event photoshoot with Dom Streater and Mayor Nutter. 
 - Trained staff on the proper use of digital cameras and Adobe Lightroom for image processing
-- Implemented a plan with the Marketing & Communications department to develop a college wide social media marketing plan
+- Implemented a college wide social media marketing plan
 - Managed all institutional social media properties: Facebook, Pinterest, Twitter, Instagram, LinkedIn, Tumblr, Google Plus and Vine
-- Advised other departments on setting up their own Facebook pages and other social media properties
+- Advised other departments on setting up their own social media properties
 
 ###### Fundraising Coordinator (2006 - Present)
 
-- Managed the Raiser's Edge database in order to determine the best possible way to normalize and store data for retrieval
+- Managed the Raiser's Edge database in order to normalize and store data for retrieval
 - Maintained control of the database analyzing all informational requirements, developed database specifications, created reports, and enforced all database standards
 - Oversaw database conversion from PowerCampus to Raiser's Edge in 2006
 - Managed work-study students, scheduling, projects and work flow
@@ -80,9 +80,8 @@
 
 - Virtual Content Creator for Deadly Nightshade Design Studio, a virtual fashion design label and store selling stylish and sophisticated women's wear, men's wear and accessories. Responsible for 3-D character design, product marketing within Second Life, and created all fashion photographs and product images (2004 - 2007)
 - Co-Owner of Peregrine Salon, a consulting, development and project management company for various virtual world projects (2004 - 2009)
-- Co-Founder, Lead Organizer and Board Member for the Second Life Community Convention. The convention was attended by virtual world enthusiasts and industry experts from around the world. It featured keynote speakers such as Philip Rosedale, founder and creator of Second Life and inventor of video streaming, Mitch Kapor, founder of Lotus Development Corporation, and chair of the Mozilla Foundation, and Cory Ondrejka, former VP of Engineering of Facebook. (2005 - 2007)
+- Co-Founder, Lead Organizer and Board Member for the Second Life Community Convention. The convention featured keynote speakers such as Philip Rosedale, founder and creator of Second Life and inventor of video streaming, Mitch Kapor, founder of Lotus Development Corporation, and chair of the Mozilla Foundation, and Cory Ondrejka, former VP of Engineering of Facebook. (2005 - 2007)
 - Co-Founder, SLBoutique.com, a web-based marketplace for content created in the virtual world Second Life. The company was sold in 2006 and eventually bought by Second Life creator Linden Lab, and re-branded as part of their website (2005 - 2007)
-- Jennifer participated on a panel discussion on Music and New Media at The Philadelphia Future Salon.
 - Jennifer and her husband Timothy Allen were guest lecturers for a class at the University of Pennsylvania on the perception of public spaces speaking on how virtual worlds are changing the perceptions people have of public space.
 - Gave a presentation on "Virtual World Entrepreneurs" at the University of the Arts on personal accomplishments in Second Life. It was presented to graduate student fellows, faculty and staff for orientation to the platform.
 - Spoke on five panels regarding virtual worlds at the 70th Annual Philadelphia Science Fiction Convention.
@@ -112,7 +111,7 @@
 
 ###### Completed Online, via Lynda.com: 
 
-- Photography & Video Courses: Product Photography for eCommerce, Insights on Product Photography, Up and Running with DSLR Film Making, Creative DSLR Video Techniques, Shooting with the Canon 5D Mark III, Video for Photographers: Shooting with a DSLR, Up and Running with Studio Strobes, Lighting for Photographers: Portraiture, Narrative Portraiture: Foundations of Portraiture, Green Screen Techniques for Video and Photography, Lens Reversal Macro Photography, Foundations of Photography: Exposure, Composition, Lenses, Night and Low Light, Macro and Close Up, Flash, Speciality Lenses, Up and Running with Natural Light, Up and Running with Lighting: Studio Lights and Flash, Digital Photography Principles: The Camera, Lighting with Flash: Basics, Lighting for Photographers: Flash Exposure Fundamentals, Photography 101.
-- Software Courses: Up and Running with Lightroom 5, Lightroom 5 Essentials: Importing with the Library Module, Managing Images with the Library Modules, Develop Module Basics, and Develop Module Advanced Techniques, Photoshop CS3 One on One Essentials.
-- Website Courses: Responsive Design Fundamentals, Website Strategy and Planning, Website Planning and Wireframing, Google Analytics Essential Training, Website Design Fundamentals, Web Site Strategy and Planning, CMS Fundamentals, GitHub for Web Designers
+- Photography & Video Courses: Product Photography for eCommerce, Insights on Product Photography, Up and Running with DSLR Film Making, Creative DSLR Video Techniques, Video for Photographers: Shooting with a DSLR, Up and Running with Studio Strobes, Lighting for Photographers: Portraiture, Narrative Portraiture: Foundations of Portraiture, Green Screen Techniques for Video and Photography, Lens Reversal Macro Photography, Foundations of Photography: Exposure, Composition, Lenses, Night and Low Light, Macro and Close Up, Flash, Speciality Lenses, Up and Running with Natural Light, Up and Running with Lighting: Studio Lights and Flash, Lighting with Flash: Basics, Lighting for Photographers: Flash Exposure Fundamentals
+- Software Courses: Up and Running with Lightroom 5, Lightroom 5 Essentials: Importing with the Library Module, Managing Images with the Library Modules, Develop Module Basics, and Develop Module Advanced Techniques, Photoshop One on One Essentials.
+- Website Courses: Responsive Design Fundamentals, Website Strategy and Planning, Website Planning and Wireframing, Google Analytics Essential Training, Website Design Fundamentals, CMS Fundamentals, GitHub for Web Designers
 - Social Media Courses: Facebook Advertising Fundamentals, Pinterest for Business Sharing Photos with Instagram Up and Running with Vine, Up and Running with SnapChat, Up and Running with Pinterest, Google+ for Business, Twitter Essential Training, Up and Running with Tumblr, Social Media Marketing with Facebook and Twitter.
