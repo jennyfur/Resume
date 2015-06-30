@@ -6,7 +6,7 @@
 - Bachelor of Fine Arts degree in Studio Arts with Art History Emphasis, Moore College of Art & Design, 2004
 - Professional development courses (please see below)
 
-### Skills
+### Skillset
 
 - Website Content Management Systems: WordPress, Mediawiki, Apostrophe, Simple CMS, Weebly, Django Md-CMS and other custom proprietary content management systems
 - Experience with managing website upgrades, redesigns and content management system conversion projects
