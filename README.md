@@ -51,6 +51,7 @@
 ##### Photography: Volunteer and Professional (2010 - Present)
 
 - Volunteer, Philadelphia Zoo (Camera Club Member): the club meets monthly and has regularly scheduled photoshoots. Members contribute our best work to the zoo for their use in all of their marketing materials. At our meetings, we view and critique each other's recent work. 
+- Event Photographer for the Wharton Web Conference July 2015
 - Website Developer (WordPress) & Photographer:
     - Ed Vatza Photography: http://www.edvatza.com/ (2010 - Present)
     - Taney Legal, LLC: http://www.taneylegal.com/ (2013 - Present)
