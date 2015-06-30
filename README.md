@@ -1,4 +1,4 @@
-## Jennifer Vatza Resume
+## Jennifer Vatza - 611 Annin Street - Philadelphia, PA 19147 - jvatza@gmail.com
 
 ### Education
 
