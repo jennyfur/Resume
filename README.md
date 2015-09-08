@@ -53,11 +53,13 @@ Experienced digital content producer and manager for the web and social media wi
 - Digital Photography Studio
 
 ##### Completed Online, via Lynda.com: 
-##### Photography & Video Courses: 
+##### - Photography & Video Courses: 
 - Foundation of Photography: Exposure, Lighting, Composition, Night and Low Light and Product Photography
 - Video for Photographers and DSLR Filmmaking and Techniques
-#####	Social Media Marketing Courses: 
+
+#####	- Social Media Marketing Courses: 
 - Facebook Advertising and Marketing, Up and Running with YouTube, Pinterest, Instagram, Vine, SnapChat, Google+, Tumblr, and Twitter.
-##### Web and Software Courses: 
+
+##### - Web and Software Courses: 
 - Adobe Lightroom CC, Photoshop CC, Premiere Pro Essential Training CS5.
 - HTML, CSS, JavaScript & SQL Essentials, CMS Training, Website Design: Strategy and Planning, Agile Project Management, Google Analytics, SEO, and GitHub
